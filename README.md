@@ -8,9 +8,9 @@ Skills:
 * 🧑‍💻 JS / HTML / CSS    
 * Node
  
- Some Quick facts:
- . 🧠 I’m currently recive daily new input at SuperCode Bootcamp "Fullstack Development"
- . 🔎 I'm looking for an intresting new job 
+ Some Quick facts:</br>
+ . 🧠 I’m currently recive daily new input at SuperCode Bootcamp "Fullstack Development"</br>
+ . 🔎 I'm looking for an intresting new job </br>
   
   💎 This is an overview of my work 📄 in a short time during my learning period:
   
@@ -33,6 +33,10 @@ Skills:
    .Quize (only js) </br>
    - <a href=http://sidahmed2306.github.io/quiz/ >webseit</a></br>
    - <a href=https://github.com/sidahmed2306/quiz>Github</a></br>
+    
+   .Mehrwertsteuer-Rechner </br>
+   - <a href=https://sidahmed2306.github.io/Mehrwertsteuer-Rechner/>webseit</a></br>
+   - <a href=https://github.com/sidahmed2306/Mehrwertsteuer-Rechner>Github</a></br>
     
    
    
