@@ -37,6 +37,10 @@ Skills:
    .Mehrwertsteuer-Rechner </br>
    - <a href=https://sidahmed2306.github.io/Mehrwertsteuer-Rechner/>webseit</a></br>
    - <a href=https://github.com/sidahmed2306/Mehrwertsteuer-Rechner>Github</a></br>
+   
+   .Kalorien-Rechner </br>
+   - <a href=https://sidahmed2306.github.io/Kalorien-Rechner/>webseit</a></br>
+   - <a href=https://github.com/sidahmed2306/Kalorien-Rechner/>Github</a></br>
     
    
    
