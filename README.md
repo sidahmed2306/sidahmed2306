@@ -12,11 +12,30 @@ Skills:
  . 🧠 I’m currently recive daily new input at SuperCode Bootcamp "Fullstack Development"
  . 🔎 I'm looking for an intresting new job 
   
-  This is an overview of my work 📄 in a short time during my learning period:
+  💎 This is an overview of my work 📄 in a short time during my learning period:
   
-  .Caesear-cipher
-  <a href=https://sidahmed2306.github.io/caesar-cipher/>webseit</a></br>
-   <a href=https://github.com/sidahmed2306/caesar-cipher>Github</a>
+  .Weather-App </br>
+   - <a href= https://sidahmed2306.github.io/-Weather-App/>webseit</a></br>
+   - <a href=https://github.com/sidahmed2306/-Weather-App>Github</a></br>
+  
+  .Caesear-cipher ℔ </br>
+   - <a href=https://sidahmed2306.github.io/caesar-cipher/>webseit</a></br>
+   - <a href=https://github.com/sidahmed2306/caesar-cipher>Github</a></br>
+    
+   .Morse-code  ℔ </br>
+   - <a href=https://sidahmed2306.github.io/Morse-code/>webseit</a></br>
+   - <a href=https://github.com/sidahmed2306/Morse-code/>Github</a></br>
+   
+   .Rock-Paper-Scissors 👊✌️🖐 </br>
+   - <a href= https://sidahmed2306.github.io/rock-paper-scissors/>webseit</a></br>
+   - <a href=https://github.com/sidahmed2306/rock-paper-scissors>Github</a></br>
+
+   .Quize (only js) </br>
+   - <a href=https://sidahmed2306.github.io/quiz/ >webseit</a></br>
+   - <a href=https://github.com/sidahmed2306/quiz>Github</a></br>
+    
+   
+   
   
  
 
