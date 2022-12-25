@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Sidahmed Boussadia
 ![](https://www.techedgegroup.com/hubfs/2019%20-%20Information%20Technology/code-doctorzedge.jpg)
 
-## I'm Sidahmed Boussadia based in Germany, and im Frontend Developer 🧑‍ 💻, im currently developing my skils in back_end 🌑, i have a Bechelor's degree in In Informatik(computer system), i'm multilingual(English ,Arabic German, French, JS😅), i like to solve complex issues📝 and i love coding 🔐🧑‍💻
+## I'm Sidahmed Boussadia based in Germany, and i'm Frontend Developer 🧑‍ 💻, im currently developing my skils in back_end 🌑, i have a Bechelor's degree in In Informatik(computer system), i'm multilingual(English ,Arabic German, French, JS😅), i like to solve complex issues📝 and i love coding 🔐🧑‍💻
 
 ## Skills:
 * ⚛   REACT 
