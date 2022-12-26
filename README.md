@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Sidahmed Boussadia
+# Hi there 👋, my name is Sidahmed Boussadia
 ![](https://www.techedgegroup.com/hubfs/2019%20-%20Information%20Technology/code-doctorzedge.jpg)
 
 ## I'm Sidahmed Boussadia based in Germany, and i'm Frontend Developer 🧑‍ 💻, im currently developing my skils in back_end 🌑, i have a Bechelor's degree in In Informatik(computer system), i'm multilingual(English ,Arabic German, French, JS😅), i like to solve complex issues📝 and i love coding 🔐🧑‍💻
@@ -9,10 +9,10 @@
 * Node
  
  ## Some Quick facts:</br>
- . 🧠 I’m currently recive daily new input at SuperCode Bootcamp "Fullstack Development"</br>
- . 🔎 I'm looking for an intresting new job </br>
+ .### 🧠 I’m currently recive daily new input at SuperCode Bootcamp "Fullstack Development"</br>
+ .### 🔎 I'm looking for an intresting new job </br>
   
-  # 💎 This is an overview of my work 📄 in a short time during my learning period:
+  ## 💎 This is an overview of my work 📄 in a short time during my learning period:
   
   .Weather-App </br>
    - <a href= https://sidahmed2306.github.io/-Weather-App/>webseit</a></br>
