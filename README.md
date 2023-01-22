@@ -16,35 +16,35 @@
   
   ## 💎 This is an overview of my work 📄 in a short time during my learning period:
   .free2game </br>
-   - <a href= />webseit</a></br>
+   - <a href=https://exquisite-daifuku-ec7552.netlify.app>website</a></br>
    - <a href=https://github.com/sidahmed2306/free2game>Github</a></br>
   
   .Weather-App </br>
-   - <a href= https://sidahmed2306.github.io/-Weather-App/>webseit</a></br>
+   - <a href= https://sidahmed2306.github.io/-Weather-App/>website</a></br>
    - <a href=https://github.com/sidahmed2306/-Weather-App>Github</a></br>
   
   .Caesear-cipher ℔ </br>
-   - <a href=http://sidahmed2306.github.io/caesar-cipher/>webseit</a></br>
+   - <a href=http://sidahmed2306.github.io/caesar-cipher/>website</a></br>
    - <a href=https://github.com/sidahmed2306/caesar-cipher>Github</a></br>
     
    .Morse-code  ℔ </br>
-   - <a href=http://sidahmed2306.github.io/Morse-code/>webseit</a></br>
+   - <a href=http://sidahmed2306.github.io/Morse-code/>website</a></br>
    - <a href=https://github.com/sidahmed2306/Morse-code/>Github</a></br>
    
    .Rock-Paper-Scissors 👊✌️🖐 </br>
-   - <a href= http://sidahmed2306.github.io/rock-paper-scissors/>webseit</a></br>
+   - <a href= http://sidahmed2306.github.io/rock-paper-scissors/>websit</a></br>
    - <a href=https://github.com/sidahmed2306/rock-paper-scissors>Github</a></br>
 
    .Quize (only js) </br>
-   - <a href=http://sidahmed2306.github.io/quiz/ >webseit</a></br>
+   - <a href=http://sidahmed2306.github.io/quiz/ >website</a></br>
    - <a href=https://github.com/sidahmed2306/quiz>Github</a></br>
     
    .Mehrwertsteuer-Rechner </br>
-   - <a href=https://sidahmed2306.github.io/Mehrwertsteuer-Rechner/>webseit</a></br>
+   - <a href=https://sidahmed2306.github.io/Mehrwertsteuer-Rechner/>website</a></br>
    - <a href=https://github.com/sidahmed2306/Mehrwertsteuer-Rechner>Github</a></br>
    
    .Kalorien-Rechner </br>
-   - <a href=https://sidahmed2306.github.io/Kalorien-Rechner/>webseit</a></br>
+   - <a href=https://sidahmed2306.github.io/Kalorien-Rechner/>webeite</a></br>
    - <a href=https://github.com/sidahmed2306/Kalorien-Rechner/>Github</a></br>
     
    
