@@ -6,7 +6,9 @@
 ## Skills:
 * ⚛   REACT 
 * 🧑‍💻 JS / HTML / CSS    
-* Node
+* Node.js
+* MERN Stack
+
  
  ## Some Quick facts:</br>
 #### . 🧠 I’m currently recive daily new input at SuperCode "Fullstack Development"</br>
