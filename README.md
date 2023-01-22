@@ -9,7 +9,7 @@
 * Node
  
  ## Some Quick facts:</br>
-#### . 🧠 I’m currently recive daily new input at SuperCode Bootcamp "Fullstack Development"</br>
+#### . 🧠 I’m currently recive daily new input at SuperCode "Fullstack Development"</br>
 #### .🔎 I'm looking for an intresting new job </br>
   
   ## 💎 This is an overview of my work 📄 in a short time during my learning period:
