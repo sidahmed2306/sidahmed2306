@@ -20,7 +20,7 @@
    - <a href=https://github.com/sidahmed2306/free2game>Github</a></br>
   
   .Weather-App </br>
-   - <a href= https://sidahmed2306.github.io/-Weather-App/>website</a></br>
+   - <a href=https://sidahmed2306.github.io/wether-App>website</a></br>
    - <a href=https://github.com/sidahmed2306/-Weather-App>Github</a></br>
   
   .Caesear-cipher ℔ </br>
