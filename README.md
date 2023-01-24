@@ -6,13 +6,15 @@
 ## Skills:
 * ⚛   REACT 
 * 🧑‍💻 JS / HTML / CSS    
-* Node.js
-* MERN Stack
+* Node.js React.js, Next.js, Express.js, Git, npm, API, MongoDB,
+
+
 
  
  ## Some Quick facts:</br>
-#### . 🧠 I’m currently recive daily new input at SuperCode "Fullstack Development"</br>
-#### .🔎 I'm looking for an intresting new job </br>
+#### .🧠  I’m currently recive daily new input at SuperCode "Fullstack Development"</br>
+#### .🔎  I'm looking for an intresting new job </br>
+#### .🌱  I’m currently learning the Backend with the MERN Tech Stack
   
   ## 💎 This is an overview of my work 📄 in a short time during my learning period:
   .free2game </br>
