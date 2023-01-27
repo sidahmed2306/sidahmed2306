@@ -14,7 +14,6 @@
 
  
  ## Some Quick facts:</br>
-#### .🧠  I’m currently recive daily new input at SuperCode "Fullstack Development"</br>
 #### .🔎  I'm looking for an intresting new job </br>
 #### .🌱  I’m currently learning the Backend with the MERN Tech Stack
   
