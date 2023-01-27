@@ -4,6 +4,8 @@
 ## I'm Sidahmed Boussadia based in Germany, and i'm Frontend Developer 🧑‍ 💻, im currently developing my skils in back_end 🌑, i have a Bechelor's degree in In Informatik(computer system), i'm multilingual(German, English , Arabic , French, JS😅), i like to solve complex issues📝 and i love coding 🔐🧑‍💻
 
 ## Skills:
+![1F88C812-DEB4-41F3-A16B-6D040886D198_1_201_a](https://user-images.githubusercontent.com/113903613/215064373-d87015a6-f5f5-454c-979b-4c558fdb6e27.jpeg)
+
 * ⚛   REACT 
 * 🧑‍💻 JS / HTML / CSS    
 * Node.js React.js, Next.js, Express.js, Git, npm, API, MongoDB,
