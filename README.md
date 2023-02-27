@@ -1,7 +1,7 @@
 # Hi there 👋, my name is Sidahmed Boussadia
 ![](https://www.techedgegroup.com/hubfs/2019%20-%20Information%20Technology/code-doctorzedge.jpg)
 
-## I'm Sidahmed Boussadia based in Germany, and i'm Frontend Developer 🧑‍ 💻, im currently developing my skils in back_end 🌑, i have a Bechelor's degree in In Informatik(computer system), i'm multilingual(German, English , Arabic , French, JS😅), i like to solve complex issues📝 and i love coding 🔐🧑‍💻
+## I'm Sidahmed Boussadia based in Germany, and i'm Full Stack Developer 💻 🌑, i have a Bechelor's degree in In Informatik(computer system), i'm multilingual(German, English , Arabic , French, JS😅), i like to solve complex issues📝 and i love coding 🔐🧑‍💻
 
 ## Skills:
 ![1F88C812-DEB4-41F3-A16B-6D040886D198_1_201_a](https://user-images.githubusercontent.com/113903613/215064373-d87015a6-f5f5-454c-979b-4c558fdb6e27.jpeg)
@@ -15,7 +15,7 @@
  
  ## Some Quick facts:</br>
 #### .🔎  I'm looking for an interesting new job </br>
-#### .🌱  I’m currently learning the Backend with the MERN Tech Stack
+
   
   ## 💎 This is an overview of my work 📄 in a short time during my learning period:
   .free2game </br>
